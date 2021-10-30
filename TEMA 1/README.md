@@ -32,13 +32,16 @@
         >Aqui deberemos de entender que son las rutas  absolutas y relativas para buscar y colocar el archivo correctamente.
         ><br>
         ><br>
+
         >>- **Ruta absoluta:**
         >    <br>
         >   Imaginemos que nuestro archivo se encuentra en el **Escritorio** y se llama **"codigo.js"**.
         >    <br>
+
         >    Entonces para saber su ruta absoluta tendrá que ser la ruta completa desde el disco que tengamos, es decir : **_"C:\Users\jesus\Desktop\codigo.js"_**
         >    <br>
         >    <br>
+        
         >>  - **Ruta relativa:**<br>
         >    La ruta relativa es desde nos encontramos buscar el archivo, es decir, imaginemos que tenemos esta estructura:<br>
         >>    ~~~
@@ -65,7 +68,7 @@
 
         > Tambien hay que saber que según donde lo pongamos el codigo se ejecutará antes o después.
     <br>
-    
+
     ## Links de IDEs recomendados:
 
     - [Visual Studio Code](https://code.visualstudio.com/)
