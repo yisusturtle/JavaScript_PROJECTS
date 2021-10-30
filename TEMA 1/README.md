@@ -29,18 +29,18 @@
 
         En este caso tendremos dos archivos por separados, uno que será nuestro **HTML** y otro nuestro codigo JavaScript, para unirlos deberemos indicar en el codigo del **HTML** el archivo que queremos unir con la etiqueta **\<script src="codigo.js">\</script>**.
 
-        >Aqui deberemos de entender que son las rutas absolutas y relativas para buscar y colocar el archivo correctamente.
-        <br>
-        <br>
-           - **Ruta absoluta:**
-            <br>
-            Imaginemos que nuestro archivo se encuentra en el **Escritorio** y se llama **"codigo.js"**.
-            <br>
-            Entonces para saber su ruta absoluta tendrá que ser la ruta completa desde el disco que tengamos, es decir : **_"C:\Users\jesus\Desktop\codigo.js"_**
-            <br>
-            <br>
-          - **Ruta relativa:**<br>
-            La ruta relativa es desde nos encontramos buscar el archivo, es decir, imaginemos que tenemos esta estructura:<br>
+        >Aqui deberemos de entender que son las rutas  absolutas y relativas para buscar y colocar el archivo correctamente.
+        ><br>
+        ><br>
+        >   - **Ruta absoluta:**
+        >    <br>
+        >    Imaginemos que nuestro archivo se encuentra en el **Escritorio** y se llama **"codigo.js"**.
+        >    <br>
+        >    Entonces para saber su ruta absoluta tendrá que ser la ruta completa desde el disco que tengamos, es decir : **_"C:\Users\jesus\Desktop\codigo.js"_**
+        >    <br>
+        >    <br>
+        >  - **Ruta relativa:**<br>
+        >    La ruta relativa es desde nos encontramos buscar el archivo, es decir, imaginemos que tenemos esta estructura:<br>
         >    ~~~
         >        app
         >        ├── img
@@ -48,7 +48,7 @@
         >        └── js
         >            └── codigo.js
         >    ~~~
-            > Pues para introducir la ruta relativa desde el archivo "**index.html**" al archivo "**codigo.js**", sería **_"js/codigo.js"_**
+        > Pues para introducir la ruta relativa desde el archivo "**index.html**" al archivo "**codigo.js**", sería **_"js/codigo.js"_**
 
         Un ejemplo sería:
 
