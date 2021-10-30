@@ -34,11 +34,11 @@
         ><br>
         >
         >>- **Ruta absoluta:**
-        >    <br>
-        >   Imaginemos que nuestro archivo se encuentra en el Escritorio y se llama "codigo.js".
-        >    <br>
-        >
-        >    Entonces para saber su ruta absoluta tendrá que ser la ruta completa desde el disco que tengamos, es decir : "C:\Users\jesus\Desktop\codigo.js"
+        >>    <br>
+        >>   Imaginemos que nuestro archivo se encuentra en el **Escritorio** y se llama "**codigo.js**".
+        >>    <br>
+        >>
+        >>    Entonces para saber su ruta absoluta tendrá que ser la ruta completa desde el disco que tengamos, es decir : **_"C:\Users\jesus\Desktop\codigo.js"_**
         >    <br>
         >    <br>
         >
