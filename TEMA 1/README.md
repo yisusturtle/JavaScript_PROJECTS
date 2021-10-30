@@ -65,7 +65,9 @@
 
         > Tambien hay que saber que según donde lo pongamos el codigo se ejecutará antes o después.
     <br>
+    
     ## Links de IDEs recomendados:
+
     - [Visual Studio Code](https://code.visualstudio.com/)
     - [Sublime](https://www.sublimetext.com/)
     - [Atom](https://atom.io/)
