@@ -10,7 +10,7 @@
 
     Otra opcion de uso es unir el archivo con un archivo HTML, esto es lo que nos vamos a encontrar normalmente. Para ello hay dos forma de unir un codigo **JavaScript**:
 
-    - Incrustacion de codigo Js en HTML:
+    - **Incrustacion de codigo Js en HTML:**
         
         Creamos un archivo HTML y queremos utilizar JavaScript dentro de el sin tener otros archivos externos, pues podemos incorporarlo en el codigo HTML mediante la etiqueta **\<script>**:
         ~~~HTML
@@ -25,7 +25,8 @@
             </body>
         </html>
         ~~~
-    - Incorporacion de archivo externo a HTML:
+        <br>
+    - **Incorporacion de archivo externo a HTML:**
 
         En este caso tendremos dos archivos por separados, uno que será nuestro **HTML** y otro nuestro codigo JavaScript, para unirlos deberemos indicar en el codigo del **HTML** el archivo que queremos unir con la etiqueta **\<script src="codigo.js">\</script>**.
 
